@@ -1,0 +1,2983 @@
+{
+  "created_time": "2025-08-20 15:21:25",
+  "last_updated": "2025-08-20 15:57:46",
+  "search_history": [
+    {
+      "keyword": "松山 治安",
+      "search_time": "2025-08-20 15:21:25",
+      "new_links_found": 10,
+      "new_unique_links_added": 10
+    },
+    {
+      "keyword": "信義 治安",
+      "search_time": "2025-08-20 15:21:34",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "大安 治安",
+      "search_time": "2025-08-20 15:21:42",
+      "new_links_found": 9,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "中山 治安",
+      "search_time": "2025-08-20 15:21:54",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "中正 治安",
+      "search_time": "2025-08-20 15:22:03",
+      "new_links_found": 10,
+      "new_unique_links_added": 7
+    },
+    {
+      "keyword": "大同 治安",
+      "search_time": "2025-08-20 15:22:12",
+      "new_links_found": 10,
+      "new_unique_links_added": 6
+    },
+    {
+      "keyword": "萬華 治安",
+      "search_time": "2025-08-20 15:22:21",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "文山 治安",
+      "search_time": "2025-08-20 15:22:29",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "南港 治安",
+      "search_time": "2025-08-20 15:22:38",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "內湖 治安",
+      "search_time": "2025-08-20 15:22:47",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "士林 治安",
+      "search_time": "2025-08-20 15:22:55",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "北投 治安",
+      "search_time": "2025-08-20 15:23:04",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "板橋 治安",
+      "search_time": "2025-08-20 15:23:12",
+      "new_links_found": 9,
+      "new_unique_links_added": 6
+    },
+    {
+      "keyword": "新莊 治安",
+      "search_time": "2025-08-20 15:23:21",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "泰山 治安",
+      "search_time": "2025-08-20 15:23:30",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "林口 治安",
+      "search_time": "2025-08-20 15:23:39",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "淡水 治安",
+      "search_time": "2025-08-20 15:23:50",
+      "new_links_found": 9,
+      "new_unique_links_added": 7
+    },
+    {
+      "keyword": "金山 治安",
+      "search_time": "2025-08-20 15:23:59",
+      "new_links_found": 10,
+      "new_unique_links_added": 6
+    },
+    {
+      "keyword": "八里 治安",
+      "search_time": "2025-08-20 15:24:08",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "萬里 治安",
+      "search_time": "2025-08-20 15:24:17",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "石門 治安",
+      "search_time": "2025-08-20 15:24:25",
+      "new_links_found": 9,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "三芝 治安",
+      "search_time": "2025-08-20 15:24:33",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "瑞芳 治安",
+      "search_time": "2025-08-20 15:24:42",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "汐止 治安",
+      "search_time": "2025-08-20 15:24:51",
+      "new_links_found": 10,
+      "new_unique_links_added": 6
+    },
+    {
+      "keyword": "平溪 治安",
+      "search_time": "2025-08-20 15:24:59",
+      "new_links_found": 9,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "貢寮 治安",
+      "search_time": "2025-08-20 15:25:06",
+      "new_links_found": 7,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "雙溪 治安",
+      "search_time": "2025-08-20 15:25:15",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "深坑 治安",
+      "search_time": "2025-08-20 15:25:24",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "石碇 治安",
+      "search_time": "2025-08-20 15:25:30",
+      "new_links_found": 5,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "新店 治安",
+      "search_time": "2025-08-20 15:25:38",
+      "new_links_found": 9,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "坪林 治安",
+      "search_time": "2025-08-20 15:25:47",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "烏來 治安",
+      "search_time": "2025-08-20 15:25:56",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "永和 治安",
+      "search_time": "2025-08-20 15:26:05",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "中和 治安",
+      "search_time": "2025-08-20 15:26:14",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "土城 治安",
+      "search_time": "2025-08-20 15:26:22",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "三峽 治安",
+      "search_time": "2025-08-20 15:26:31",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "樹林 治安",
+      "search_time": "2025-08-20 15:26:40",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "鶯歌 治安",
+      "search_time": "2025-08-20 15:26:49",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "三重 治安",
+      "search_time": "2025-08-20 15:26:57",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "蘆洲 治安",
+      "search_time": "2025-08-20 15:27:06",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "五股 治安",
+      "search_time": "2025-08-20 15:27:15",
+      "new_links_found": 10,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "桃園 治安",
+      "search_time": "2025-08-20 15:27:24",
+      "new_links_found": 10,
+      "new_unique_links_added": 7
+    },
+    {
+      "keyword": "中壢 治安",
+      "search_time": "2025-08-20 15:27:33",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "平鎮 治安",
+      "search_time": "2025-08-20 15:27:42",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "八德 治安",
+      "search_time": "2025-08-20 15:27:55",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "楊梅 治安",
+      "search_time": "2025-08-20 15:28:03",
+      "new_links_found": 10,
+      "new_unique_links_added": 7
+    },
+    {
+      "keyword": "楊梅 治安",
+      "search_time": "2025-08-20 15:45:51",
+      "new_links_found": 10,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "蘆竹 治安",
+      "search_time": "2025-08-20 15:46:02",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "大溪 治安",
+      "search_time": "2025-08-20 15:46:14",
+      "new_links_found": 10,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "大園 治安",
+      "search_time": "2025-08-20 15:46:25",
+      "new_links_found": 6,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "龜山 治安",
+      "search_time": "2025-08-20 15:46:37",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "龍潭 治安",
+      "search_time": "2025-08-20 15:46:50",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "新屋 治安",
+      "search_time": "2025-08-20 15:47:02",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "觀音 治安",
+      "search_time": "2025-08-20 15:47:15",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "復興 治安",
+      "search_time": "2025-08-20 15:47:27",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "中區 治安",
+      "search_time": "2025-08-20 15:47:39",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "東區 治安",
+      "search_time": "2025-08-20 15:47:51",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "南區 治安",
+      "search_time": "2025-08-20 15:48:03",
+      "new_links_found": 10,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "西區 治安",
+      "search_time": "2025-08-20 15:48:14",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "北區 治安",
+      "search_time": "2025-08-20 15:48:26",
+      "new_links_found": 10,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "西屯 治安",
+      "search_time": "2025-08-20 15:48:38",
+      "new_links_found": 10,
+      "new_unique_links_added": 7
+    },
+    {
+      "keyword": "南屯 治安",
+      "search_time": "2025-08-20 15:48:57",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "北屯 治安",
+      "search_time": "2025-08-20 15:49:10",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "豐原 治安",
+      "search_time": "2025-08-20 15:49:21",
+      "new_links_found": 10,
+      "new_unique_links_added": 8
+    },
+    {
+      "keyword": "東勢 治安",
+      "search_time": "2025-08-20 15:49:33",
+      "new_links_found": 9,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "大甲 治安",
+      "search_time": "2025-08-20 15:49:45",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "清水 治安",
+      "search_time": "2025-08-20 15:49:58",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "沙鹿 治安",
+      "search_time": "2025-08-20 15:50:09",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "梧棲 治安",
+      "search_time": "2025-08-20 15:50:21",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "后里 治安",
+      "search_time": "2025-08-20 15:50:34",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "神岡 治安",
+      "search_time": "2025-08-20 15:50:43",
+      "new_links_found": 3,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "潭子 治安",
+      "search_time": "2025-08-20 15:50:56",
+      "new_links_found": 10,
+      "new_unique_links_added": 4
+    },
+    {
+      "keyword": "大雅 治安",
+      "search_time": "2025-08-20 15:51:08",
+      "new_links_found": 9,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "新社 治安",
+      "search_time": "2025-08-20 15:51:21",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "石岡 治安",
+      "search_time": "2025-08-20 15:51:31",
+      "new_links_found": 5,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "外埔 治安",
+      "search_time": "2025-08-20 15:51:43",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "大安 治安",
+      "search_time": "2025-08-20 15:51:55",
+      "new_links_found": 9,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "烏日 治安",
+      "search_time": "2025-08-20 15:52:07",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "大肚 治安",
+      "search_time": "2025-08-20 15:52:19",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "龍井 治安",
+      "search_time": "2025-08-20 15:52:31",
+      "new_links_found": 9,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "霧峰 治安",
+      "search_time": "2025-08-20 15:52:43",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "太平 治安",
+      "search_time": "2025-08-20 15:52:55",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "大里 治安",
+      "search_time": "2025-08-20 15:53:06",
+      "new_links_found": 10,
+      "new_unique_links_added": 1
+    },
+    {
+      "keyword": "和平 治安",
+      "search_time": "2025-08-20 15:53:18",
+      "new_links_found": 10,
+      "new_unique_links_added": 3
+    },
+    {
+      "keyword": "中西 治安",
+      "search_time": "2025-08-20 15:53:29",
+      "new_links_found": 8,
+      "new_unique_links_added": 7
+    },
+    {
+      "keyword": "東區 治安",
+      "search_time": "2025-08-20 15:53:55",
+      "new_links_found": 10,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "南區 治安",
+      "search_time": "2025-08-20 15:54:21",
+      "new_links_found": 10,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "北區 治安",
+      "search_time": "2025-08-20 15:54:47",
+      "new_links_found": 10,
+      "new_unique_links_added": 0
+    },
+    {
+      "keyword": "安平 治安",
+      "search_time": "2025-08-20 15:55:13",
+      "new_links_found": 10,
+      "new_unique_links_added": 10
+    },
+    {
+      "keyword": "安南 治安",
+      "search_time": "2025-08-20 15:55:39",
+      "new_links_found": 9,
+      "new_unique_links_added": 7
+    },
+    {
+      "keyword": "永康 治安",
+      "search_time": "2025-08-20 15:56:05",
+      "new_links_found": 10,
+      "new_unique_links_added": 2
+    },
+    {
+      "keyword": "歸仁 治安",
+      "search_time": "2025-08-20 15:56:30",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "新化 治安",
+      "search_time": "2025-08-20 15:56:56",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "左鎮 治安",
+      "search_time": "2025-08-20 15:57:22",
+      "new_links_found": 10,
+      "new_unique_links_added": 5
+    },
+    {
+      "keyword": "玉井 治安",
+      "search_time": "2025-08-20 15:57:46",
+      "new_links_found": 4,
+      "new_unique_links_added": 2
+    }
+  ],
+  "total_unique_links": 306,
+  "all_links": [
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1660063024",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1660063024.A.AAA.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1654948365",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1654948365.A.69F.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT Zhongshan 板 - 文章ID: 1488109264",
+      "url": "https://www.ptt.cc/bbs/Zhongshan/M.1488109264.A.B4F.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1719326725",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1719326725.A.074.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1699333178",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1699333178.A.E34.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1696557289",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1696557289.A.05B.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1716879587",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1716879587.A.84E.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1717162517",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1717162517.A.4D2.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1646189936",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1646189936.A.A08.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1686988322",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1686988322.A.535.html",
+      "source": "Startpage",
+      "found_by_keyword": "松山 治安",
+      "found_time": "2025-08-20 15:21:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1729277834",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1729277834.A.CCF.html",
+      "source": "Startpage",
+      "found_by_keyword": "信義 治安",
+      "found_time": "2025-08-20 15:21:34"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1611545170",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1611545170.A.9CA.html",
+      "source": "Startpage",
+      "found_by_keyword": "信義 治安",
+      "found_time": "2025-08-20 15:21:34"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1741255836",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1741255836.A.924.html",
+      "source": "Startpage",
+      "found_by_keyword": "信義 治安",
+      "found_time": "2025-08-20 15:21:34"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1656145691",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1656145691.A.938.html",
+      "source": "Startpage",
+      "found_by_keyword": "信義 治安",
+      "found_time": "2025-08-20 15:21:34"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1603440089",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1603440089.A.8AB.html",
+      "source": "Startpage",
+      "found_by_keyword": "信義 治安",
+      "found_time": "2025-08-20 15:21:34"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1708079770",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1708079770.A.9AC.html",
+      "source": "Startpage",
+      "found_by_keyword": "大安 治安",
+      "found_time": "2025-08-20 15:21:42"
+    },
+    {
+      "title": "PTT MRT 板 - 文章ID: 1742827756",
+      "url": "https://www.ptt.cc/bbs/MRT/M.1742827756.A.152.html",
+      "source": "Startpage",
+      "found_by_keyword": "大安 治安",
+      "found_time": "2025-08-20 15:21:42"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1729416657",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1729416657.A.F03.html",
+      "source": "Startpage",
+      "found_by_keyword": "大安 治安",
+      "found_time": "2025-08-20 15:21:42"
+    },
+    {
+      "title": "PTT NTU 板 - 文章ID: 1429635913",
+      "url": "https://www.ptt.cc/bbs/NTU/M.1429635913.A.6A2.html",
+      "source": "Startpage",
+      "found_by_keyword": "中山 治安",
+      "found_time": "2025-08-20 15:21:54"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1685945310",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1685945310.A.BEF.html",
+      "source": "Startpage",
+      "found_by_keyword": "中山 治安",
+      "found_time": "2025-08-20 15:21:54"
+    },
+    {
+      "title": "PTT Zhongshan 板 - 文章ID: 1584974376",
+      "url": "https://www.ptt.cc/bbs/Zhongshan/M.1584974376.A.46D.html",
+      "source": "Startpage",
+      "found_by_keyword": "中山 治安",
+      "found_time": "2025-08-20 15:21:54"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1589875168",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1589875168.A.9DD.html",
+      "source": "Startpage",
+      "found_by_keyword": "中山 治安",
+      "found_time": "2025-08-20 15:21:54"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1652353087",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1652353087.A.4CB.html",
+      "source": "Startpage",
+      "found_by_keyword": "中山 治安",
+      "found_time": "2025-08-20 15:21:54"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1723710357",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1723710357.A.500.html",
+      "source": "Startpage",
+      "found_by_keyword": "中正 治安",
+      "found_time": "2025-08-20 15:22:03"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1677123352",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1677123352.A.F3B.html",
+      "source": "Startpage",
+      "found_by_keyword": "中正 治安",
+      "found_time": "2025-08-20 15:22:03"
+    },
+    {
+      "title": "PTT ShuangHe 板 - 文章ID: 1436540939",
+      "url": "https://www.ptt.cc/bbs/ShuangHe/M.1436540939.A.EDE.html",
+      "source": "Startpage",
+      "found_by_keyword": "中正 治安",
+      "found_time": "2025-08-20 15:22:03"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1724992157",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1724992157.A.478.html",
+      "source": "Startpage",
+      "found_by_keyword": "中正 治安",
+      "found_time": "2025-08-20 15:22:03"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1703769638",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1703769638.A.CB2.html",
+      "source": "Startpage",
+      "found_by_keyword": "中正 治安",
+      "found_time": "2025-08-20 15:22:03"
+    },
+    {
+      "title": "PTT Taoyuan 板 - 文章ID: 1512299851",
+      "url": "https://www.ptt.cc/bbs/Taoyuan/M.1512299851.A.987.html",
+      "source": "Startpage",
+      "found_by_keyword": "中正 治安",
+      "found_time": "2025-08-20 15:22:03"
+    },
+    {
+      "title": "PTT ChungLi 板 - 文章ID: 1654417045",
+      "url": "https://www.ptt.cc/bbs/ChungLi/M.1654417045.A.D71.html",
+      "source": "Startpage",
+      "found_by_keyword": "中正 治安",
+      "found_time": "2025-08-20 15:22:03"
+    },
+    {
+      "title": "PTT Datong 板 - 文章ID: 1383207373",
+      "url": "https://www.ptt.cc/bbs/Datong/M.1383207373.A.AAE.html",
+      "source": "Startpage",
+      "found_by_keyword": "大同 治安",
+      "found_time": "2025-08-20 15:22:12"
+    },
+    {
+      "title": "PTT Datong 板 - 文章ID: 1638624304",
+      "url": "https://www.ptt.cc/bbs/Datong/M.1638624304.A.380.html",
+      "source": "Startpage",
+      "found_by_keyword": "大同 治安",
+      "found_time": "2025-08-20 15:22:12"
+    },
+    {
+      "title": "PTT Datong 板 - 文章ID: 1374325751",
+      "url": "https://www.ptt.cc/bbs/Datong/M.1374325751.A.D3F.html",
+      "source": "Startpage",
+      "found_by_keyword": "大同 治安",
+      "found_time": "2025-08-20 15:22:12"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1723814442",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1723814442.A.3A6.html",
+      "source": "Startpage",
+      "found_by_keyword": "大同 治安",
+      "found_time": "2025-08-20 15:22:12"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1635677621",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1635677621.A.346.html",
+      "source": "Startpage",
+      "found_by_keyword": "大同 治安",
+      "found_time": "2025-08-20 15:22:12"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1666205653",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1666205653.A.955.html",
+      "source": "Startpage",
+      "found_by_keyword": "大同 治安",
+      "found_time": "2025-08-20 15:22:12"
+    },
+    {
+      "title": "PTT Wanhua 板 - 文章ID: 1335681194",
+      "url": "https://www.ptt.cc/bbs/Wanhua/M.1335681194.A.1A7.html",
+      "source": "Startpage",
+      "found_by_keyword": "萬華 治安",
+      "found_time": "2025-08-20 15:22:21"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1753860326",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1753860326.A.8CD.html",
+      "source": "Startpage",
+      "found_by_keyword": "萬華 治安",
+      "found_time": "2025-08-20 15:22:21"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1726643204",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1726643204.A.056.html",
+      "source": "Startpage",
+      "found_by_keyword": "文山 治安",
+      "found_time": "2025-08-20 15:22:29"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1583328292",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1583328292.A.4E6.html",
+      "source": "Startpage",
+      "found_by_keyword": "文山 治安",
+      "found_time": "2025-08-20 15:22:29"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1646466898",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1646466898.A.1BF.html",
+      "source": "Startpage",
+      "found_by_keyword": "文山 治安",
+      "found_time": "2025-08-20 15:22:29"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1703551838",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1703551838.A.FAB.html",
+      "source": "Startpage",
+      "found_by_keyword": "文山 治安",
+      "found_time": "2025-08-20 15:22:29"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1750307375",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1750307375.A.A85.html",
+      "source": "Startpage",
+      "found_by_keyword": "文山 治安",
+      "found_time": "2025-08-20 15:22:29"
+    },
+    {
+      "title": "PTT Sijhih 板 - 文章ID: 1472701690",
+      "url": "https://www.ptt.cc/bbs/Sijhih/M.1472701690.A.108.html",
+      "source": "Startpage",
+      "found_by_keyword": "南港 治安",
+      "found_time": "2025-08-20 15:22:38"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1727233908",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1727233908.A.BD0.html",
+      "source": "Startpage",
+      "found_by_keyword": "南港 治安",
+      "found_time": "2025-08-20 15:22:38"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1747787377",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1747787377.A.7A9.html",
+      "source": "Startpage",
+      "found_by_keyword": "南港 治安",
+      "found_time": "2025-08-20 15:22:38"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1739351822",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1739351822.A.F0A.html",
+      "source": "Startpage",
+      "found_by_keyword": "南港 治安",
+      "found_time": "2025-08-20 15:22:38"
+    },
+    {
+      "title": "PTT Nangang 板 - 文章ID: 1477482875",
+      "url": "https://www.ptt.cc/bbs/Nangang/M.1477482875.A.6E2.html",
+      "source": "Startpage",
+      "found_by_keyword": "南港 治安",
+      "found_time": "2025-08-20 15:22:38"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1689086285",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1689086285.A.537.html",
+      "source": "Startpage",
+      "found_by_keyword": "內湖 治安",
+      "found_time": "2025-08-20 15:22:47"
+    },
+    {
+      "title": "PTT Neihu 板 - 文章ID: 1615428879",
+      "url": "https://www.ptt.cc/bbs/Neihu/M.1615428879.A.4EC.html",
+      "source": "Startpage",
+      "found_by_keyword": "內湖 治安",
+      "found_time": "2025-08-20 15:22:47"
+    },
+    {
+      "title": "PTT Neihu 板 - 文章ID: 1508081675",
+      "url": "https://www.ptt.cc/bbs/Neihu/M.1508081675.A.9A1.html",
+      "source": "Startpage",
+      "found_by_keyword": "內湖 治安",
+      "found_time": "2025-08-20 15:22:47"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1747370895",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1747370895.A.7B7.html",
+      "source": "Startpage",
+      "found_by_keyword": "士林 治安",
+      "found_time": "2025-08-20 15:22:55"
+    },
+    {
+      "title": "PTT BabyMother 板 - 文章ID: 1712817841",
+      "url": "https://www.ptt.cc/bbs/BabyMother/M.1712817841.A.0AB.html",
+      "source": "Startpage",
+      "found_by_keyword": "北投 治安",
+      "found_time": "2025-08-20 15:23:04"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1588506237",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1588506237.A.2E3.html",
+      "source": "Startpage",
+      "found_by_keyword": "北投 治安",
+      "found_time": "2025-08-20 15:23:04"
+    },
+    {
+      "title": "PTT BigPeitou 板 - 文章ID: 1487369428",
+      "url": "https://www.ptt.cc/bbs/BigPeitou/M.1487369428.A.E32.html",
+      "source": "Startpage",
+      "found_by_keyword": "北投 治安",
+      "found_time": "2025-08-20 15:23:04"
+    },
+    {
+      "title": "PTT BigBanciao 板 - 文章ID: 1495294548",
+      "url": "https://www.ptt.cc/bbs/BigBanciao/M.1495294548.A.7EE.html",
+      "source": "Startpage",
+      "found_by_keyword": "板橋 治安",
+      "found_time": "2025-08-20 15:23:12"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1736475530",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1736475530.A.C24.html",
+      "source": "Startpage",
+      "found_by_keyword": "板橋 治安",
+      "found_time": "2025-08-20 15:23:12"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1685422335",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1685422335.A.15C.html",
+      "source": "Startpage",
+      "found_by_keyword": "板橋 治安",
+      "found_time": "2025-08-20 15:23:12"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1637671492",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1637671492.A.2D0.html",
+      "source": "Startpage",
+      "found_by_keyword": "板橋 治安",
+      "found_time": "2025-08-20 15:23:12"
+    },
+    {
+      "title": "PTT JapanStudy 板 - 文章ID: 1443976375",
+      "url": "https://www.ptt.cc/bbs/JapanStudy/M.1443976375.A.400.html",
+      "source": "Startpage",
+      "found_by_keyword": "板橋 治安",
+      "found_time": "2025-08-20 15:23:12"
+    },
+    {
+      "title": "PTT BigBanciao 板 - 文章ID: 1746625117",
+      "url": "https://www.ptt.cc/bbs/BigBanciao/M.1746625117.A.26D.html",
+      "source": "Startpage",
+      "found_by_keyword": "板橋 治安",
+      "found_time": "2025-08-20 15:23:12"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1699430634",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1699430634.A.36F.html",
+      "source": "Startpage",
+      "found_by_keyword": "新莊 治安",
+      "found_time": "2025-08-20 15:23:21"
+    },
+    {
+      "title": "PTT HsinChuang 板 - 文章ID: 1592323669",
+      "url": "https://www.ptt.cc/bbs/HsinChuang/M.1592323669.A.389.html",
+      "source": "Startpage",
+      "found_by_keyword": "新莊 治安",
+      "found_time": "2025-08-20 15:23:21"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1724549764",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1724549764.A.D9F.html",
+      "source": "Startpage",
+      "found_by_keyword": "新莊 治安",
+      "found_time": "2025-08-20 15:23:21"
+    },
+    {
+      "title": "PTT HsinChuang 板 - 文章ID: 1595511761",
+      "url": "https://www.ptt.cc/bbs/HsinChuang/M.1595511761.A.465.html",
+      "source": "Startpage",
+      "found_by_keyword": "新莊 治安",
+      "found_time": "2025-08-20 15:23:21"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1632021359",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1632021359.A.2EF.html",
+      "source": "Startpage",
+      "found_by_keyword": "泰山 治安",
+      "found_time": "2025-08-20 15:23:30"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1754106738",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1754106738.A.998.html",
+      "source": "Startpage",
+      "found_by_keyword": "泰山 治安",
+      "found_time": "2025-08-20 15:23:30"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1710740959",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1710740959.A.8D6.html",
+      "source": "Startpage",
+      "found_by_keyword": "泰山 治安",
+      "found_time": "2025-08-20 15:23:30"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1727697905",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1727697905.A.F93.html",
+      "source": "Startpage",
+      "found_by_keyword": "泰山 治安",
+      "found_time": "2025-08-20 15:23:30"
+    },
+    {
+      "title": "PTT Thailand 板 - 文章ID: 1691822171",
+      "url": "https://www.ptt.cc/bbs/Thailand/M.1691822171.A.E75.html",
+      "source": "Startpage",
+      "found_by_keyword": "泰山 治安",
+      "found_time": "2025-08-20 15:23:30"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1632027730",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1632027730.A.998.html",
+      "source": "Startpage",
+      "found_by_keyword": "林口 治安",
+      "found_time": "2025-08-20 15:23:39"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1724900165",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1724900165.A.889.html",
+      "source": "Startpage",
+      "found_by_keyword": "林口 治安",
+      "found_time": "2025-08-20 15:23:39"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1721895971",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1721895971.A.E9B.html",
+      "source": "Startpage",
+      "found_by_keyword": "林口 治安",
+      "found_time": "2025-08-20 15:23:39"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1748797377",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1748797377.A.7DA.html",
+      "source": "Startpage",
+      "found_by_keyword": "林口 治安",
+      "found_time": "2025-08-20 15:23:39"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1699466275",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1699466275.A.09D.html",
+      "source": "Startpage",
+      "found_by_keyword": "林口 治安",
+      "found_time": "2025-08-20 15:23:39"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1729766441",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1729766441.A.8DB.html",
+      "source": "Startpage",
+      "found_by_keyword": "淡水 治安",
+      "found_time": "2025-08-20 15:23:50"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1718710786",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1718710786.A.5FC.html",
+      "source": "Startpage",
+      "found_by_keyword": "淡水 治安",
+      "found_time": "2025-08-20 15:23:50"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1667609722",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1667609722.A.2E8.html",
+      "source": "Startpage",
+      "found_by_keyword": "淡水 治安",
+      "found_time": "2025-08-20 15:23:50"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1710688490",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1710688490.A.D07.html",
+      "source": "Startpage",
+      "found_by_keyword": "淡水 治安",
+      "found_time": "2025-08-20 15:23:50"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1610555798",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1610555798.A.266.html",
+      "source": "Startpage",
+      "found_by_keyword": "淡水 治安",
+      "found_time": "2025-08-20 15:23:50"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1718803499",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1718803499.A.8E0.html",
+      "source": "Startpage",
+      "found_by_keyword": "淡水 治安",
+      "found_time": "2025-08-20 15:23:50"
+    },
+    {
+      "title": "PTT TamShui 板 - 文章ID: 1374718999",
+      "url": "https://www.ptt.cc/bbs/TamShui/M.1374718999.A.012.html",
+      "source": "Startpage",
+      "found_by_keyword": "淡水 治安",
+      "found_time": "2025-08-20 15:23:50"
+    },
+    {
+      "title": "PTT Tech_Job 板 - 文章ID: 1655456602",
+      "url": "https://www.ptt.cc/bbs/Tech_Job/M.1655456602.A.F18.html",
+      "source": "Startpage",
+      "found_by_keyword": "金山 治安",
+      "found_time": "2025-08-20 15:23:59"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1705384619",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1705384619.A.26C.html",
+      "source": "Startpage",
+      "found_by_keyword": "金山 治安",
+      "found_time": "2025-08-20 15:23:59"
+    },
+    {
+      "title": "PTT ShuangHe 板 - 文章ID: 1649569234",
+      "url": "https://www.ptt.cc/bbs/ShuangHe/M.1649569234.A.8F2.html",
+      "source": "Startpage",
+      "found_by_keyword": "金山 治安",
+      "found_time": "2025-08-20 15:23:59"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1739100385",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1739100385.A.4A0.html",
+      "source": "Startpage",
+      "found_by_keyword": "金山 治安",
+      "found_time": "2025-08-20 15:23:59"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1737086809",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1737086809.A.682.html",
+      "source": "Startpage",
+      "found_by_keyword": "金山 治安",
+      "found_time": "2025-08-20 15:23:59"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1727946626",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1727946626.A.ADA.html",
+      "source": "Startpage",
+      "found_by_keyword": "金山 治安",
+      "found_time": "2025-08-20 15:23:59"
+    },
+    {
+      "title": "PTT BigBanciao 板 - 文章ID: 1718184761",
+      "url": "https://www.ptt.cc/bbs/BigBanciao/M.1718184761.A.BA5.html",
+      "source": "Startpage",
+      "found_by_keyword": "八里 治安",
+      "found_time": "2025-08-20 15:24:08"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1685950846",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1685950846.A.D19.html",
+      "source": "Startpage",
+      "found_by_keyword": "八里 治安",
+      "found_time": "2025-08-20 15:24:08"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1709975360",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1709975360.A.A8B.html",
+      "source": "Startpage",
+      "found_by_keyword": "八里 治安",
+      "found_time": "2025-08-20 15:24:08"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1735740372",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1735740372.A.253.html",
+      "source": "Startpage",
+      "found_by_keyword": "八里 治安",
+      "found_time": "2025-08-20 15:24:08"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1717475428",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1717475428.A.FDF.html",
+      "source": "Startpage",
+      "found_by_keyword": "萬里 治安",
+      "found_time": "2025-08-20 15:24:17"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1751164277",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1751164277.A.46A.html",
+      "source": "Startpage",
+      "found_by_keyword": "萬里 治安",
+      "found_time": "2025-08-20 15:24:17"
+    },
+    {
+      "title": "PTT car 板 - 文章ID: 1643970685",
+      "url": "https://www.ptt.cc/bbs/car/M.1643970685.A.853.html",
+      "source": "Startpage",
+      "found_by_keyword": "萬里 治安",
+      "found_time": "2025-08-20 15:24:17"
+    },
+    {
+      "title": "PTT Wanhua 板 - 文章ID: 1466429733",
+      "url": "https://www.ptt.cc/bbs/Wanhua/M.1466429733.A.930.html",
+      "source": "Startpage",
+      "found_by_keyword": "萬里 治安",
+      "found_time": "2025-08-20 15:24:17"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1719190609",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1719190609.A.D51.html",
+      "source": "Startpage",
+      "found_by_keyword": "萬里 治安",
+      "found_time": "2025-08-20 15:24:17"
+    },
+    {
+      "title": "PTT pts 板 - 文章ID: 1622733129",
+      "url": "https://www.ptt.cc/bbs/pts/M.1622733129.A.899.html",
+      "source": "Startpage",
+      "found_by_keyword": "石門 治安",
+      "found_time": "2025-08-20 15:24:25"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1606421434",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1606421434.A.94B.html",
+      "source": "Startpage",
+      "found_by_keyword": "石門 治安",
+      "found_time": "2025-08-20 15:24:25"
+    },
+    {
+      "title": "PTT Stock 板 - 文章ID: 1755557540",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1755557540.A.17A.html",
+      "source": "Startpage",
+      "found_by_keyword": "三芝 治安",
+      "found_time": "2025-08-20 15:24:33"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1577296949",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1577296949.A.120.html",
+      "source": "Startpage",
+      "found_by_keyword": "三芝 治安",
+      "found_time": "2025-08-20 15:24:33"
+    },
+    {
+      "title": "PTT Baseball 板 - 文章ID: 1751706400",
+      "url": "https://www.ptt.cc/bbs/Baseball/M.1751706400.A.CB6.html",
+      "source": "Startpage",
+      "found_by_keyword": "三芝 治安",
+      "found_time": "2025-08-20 15:24:33"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1702562143",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1702562143.A.998.html",
+      "source": "Startpage",
+      "found_by_keyword": "三芝 治安",
+      "found_time": "2025-08-20 15:24:33"
+    },
+    {
+      "title": "PTT medstudent 板 - 文章ID: 1532256903",
+      "url": "https://www.ptt.cc/bbs/medstudent/M.1532256903.A.577.html",
+      "source": "Startpage",
+      "found_by_keyword": "三芝 治安",
+      "found_time": "2025-08-20 15:24:33"
+    },
+    {
+      "title": "PTT BigBanciao 板 - 文章ID: 1665822008",
+      "url": "https://www.ptt.cc/bbs/BigBanciao/M.1665822008.A.675.html",
+      "source": "Startpage",
+      "found_by_keyword": "瑞芳 治安",
+      "found_time": "2025-08-20 15:24:42"
+    },
+    {
+      "title": "PTT Sijhih 板 - 文章ID: 1252775600",
+      "url": "https://www.ptt.cc/bbs/Sijhih/M.1252775600.A.18A.html",
+      "source": "Startpage",
+      "found_by_keyword": "瑞芳 治安",
+      "found_time": "2025-08-20 15:24:42"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1686167780",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1686167780.A.DE7.html",
+      "source": "Startpage",
+      "found_by_keyword": "瑞芳 治安",
+      "found_time": "2025-08-20 15:24:42"
+    },
+    {
+      "title": "PTT Militarylife 板 - 文章ID: 1418365155",
+      "url": "https://www.ptt.cc/bbs/Militarylife/M.1418365155.A.4EA.html",
+      "source": "Startpage",
+      "found_by_keyword": "瑞芳 治安",
+      "found_time": "2025-08-20 15:24:42"
+    },
+    {
+      "title": "PTT Geography 板 - 文章ID: 1238985321",
+      "url": "https://www.ptt.cc/bbs/Geography/M.1238985321.A.B51.html",
+      "source": "Startpage",
+      "found_by_keyword": "瑞芳 治安",
+      "found_time": "2025-08-20 15:24:42"
+    },
+    {
+      "title": "PTT Sijhih 板 - 文章ID: 1365960156",
+      "url": "https://www.ptt.cc/bbs/Sijhih/M.1365960156.A.950.html",
+      "source": "Startpage",
+      "found_by_keyword": "汐止 治安",
+      "found_time": "2025-08-20 15:24:51"
+    },
+    {
+      "title": "PTT Sijhih 板 - 文章ID: 1571924491",
+      "url": "https://www.ptt.cc/bbs/Sijhih/M.1571924491.A.6EB.html",
+      "source": "Startpage",
+      "found_by_keyword": "汐止 治安",
+      "found_time": "2025-08-20 15:24:51"
+    },
+    {
+      "title": "PTT Sijhih 板 - 文章ID: 1600701811",
+      "url": "https://www.ptt.cc/bbs/Sijhih/M.1600701811.A.A7C.html",
+      "source": "Startpage",
+      "found_by_keyword": "汐止 治安",
+      "found_time": "2025-08-20 15:24:51"
+    },
+    {
+      "title": "PTT Sijhih 板 - 文章ID: 1649915092",
+      "url": "https://www.ptt.cc/bbs/Sijhih/M.1649915092.A.54A.html",
+      "source": "Startpage",
+      "found_by_keyword": "汐止 治安",
+      "found_time": "2025-08-20 15:24:51"
+    },
+    {
+      "title": "PTT Sijhih 板 - 文章ID: 1494163153",
+      "url": "https://www.ptt.cc/bbs/Sijhih/M.1494163153.A.E3F.html",
+      "source": "Startpage",
+      "found_by_keyword": "汐止 治安",
+      "found_time": "2025-08-20 15:24:51"
+    },
+    {
+      "title": "PTT Sijhih 板 - 文章ID: 1618512634",
+      "url": "https://www.ptt.cc/bbs/Sijhih/M.1618512634.A.B21.html",
+      "source": "Startpage",
+      "found_by_keyword": "汐止 治安",
+      "found_time": "2025-08-20 15:24:51"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1709738387",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1709738387.A.7A9.html",
+      "source": "Startpage",
+      "found_by_keyword": "平溪 治安",
+      "found_time": "2025-08-20 15:24:59"
+    },
+    {
+      "title": "PTT ChungLi 板 - 文章ID: 1397929043",
+      "url": "https://www.ptt.cc/bbs/ChungLi/M.1397929043.A.7FD.html",
+      "source": "Startpage",
+      "found_by_keyword": "平溪 治安",
+      "found_time": "2025-08-20 15:24:59"
+    },
+    {
+      "title": "PTT ShuangHe 板 - 文章ID: 1667306066",
+      "url": "https://www.ptt.cc/bbs/ShuangHe/M.1667306066.A.09F.html",
+      "source": "Startpage",
+      "found_by_keyword": "平溪 治安",
+      "found_time": "2025-08-20 15:24:59"
+    },
+    {
+      "title": "PTT EuropeTravel 板 - 文章ID: 1472232595",
+      "url": "https://www.ptt.cc/bbs/EuropeTravel/M.1472232595.A.3B8.html",
+      "source": "Startpage",
+      "found_by_keyword": "平溪 治安",
+      "found_time": "2025-08-20 15:24:59"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1751554705",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1751554705.A.B68.html",
+      "source": "Startpage",
+      "found_by_keyword": "貢寮 治安",
+      "found_time": "2025-08-20 15:25:06"
+    },
+    {
+      "title": "PTT movie 板 - 文章ID: 1447056656",
+      "url": "https://www.ptt.cc/bbs/movie/M.1447056656.A.97E.html",
+      "source": "Startpage",
+      "found_by_keyword": "貢寮 治安",
+      "found_time": "2025-08-20 15:25:06"
+    },
+    {
+      "title": "PTT WuGu-BaLi 板 - 文章ID: 1288453678",
+      "url": "https://www.ptt.cc/bbs/WuGu-BaLi/M.1288453678.A.A5E.html",
+      "source": "Startpage",
+      "found_by_keyword": "貢寮 治安",
+      "found_time": "2025-08-20 15:25:06"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1750692871",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1750692871.A.F42.html",
+      "source": "Startpage",
+      "found_by_keyword": "雙溪 治安",
+      "found_time": "2025-08-20 15:25:15"
+    },
+    {
+      "title": "PTT Geography 板 - 文章ID: 1681038822",
+      "url": "https://www.ptt.cc/bbs/Geography/M.1681038822.A.A2C.html",
+      "source": "Startpage",
+      "found_by_keyword": "深坑 治安",
+      "found_time": "2025-08-20 15:25:24"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1684920731",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1684920731.A.8A3.html",
+      "source": "Startpage",
+      "found_by_keyword": "深坑 治安",
+      "found_time": "2025-08-20 15:25:24"
+    },
+    {
+      "title": "PTT Koei 板 - 文章ID: 1089585302",
+      "url": "https://www.ptt.cc/bbs/Koei/M.1089585302.A.DF0.html",
+      "source": "Startpage",
+      "found_by_keyword": "石碇 治安",
+      "found_time": "2025-08-20 15:25:30"
+    },
+    {
+      "title": "PTT MRT 板 - 文章ID: 1170235925",
+      "url": "https://www.ptt.cc/bbs/MRT/M.1170235925.A.A7E.html",
+      "source": "Startpage",
+      "found_by_keyword": "石碇 治安",
+      "found_time": "2025-08-20 15:25:30"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1753161535",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1753161535.A.18F.html",
+      "source": "Startpage",
+      "found_by_keyword": "新店 治安",
+      "found_time": "2025-08-20 15:25:38"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1747230413",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1747230413.A.D20.html",
+      "source": "Startpage",
+      "found_by_keyword": "新店 治安",
+      "found_time": "2025-08-20 15:25:38"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1564497958",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1564497958.A.356.html",
+      "source": "Startpage",
+      "found_by_keyword": "新店 治安",
+      "found_time": "2025-08-20 15:25:38"
+    },
+    {
+      "title": "PTT HsinTien 板 - 文章ID: 1612803789",
+      "url": "https://www.ptt.cc/bbs/HsinTien/M.1612803789.A.B69.html",
+      "source": "Startpage",
+      "found_by_keyword": "新店 治安",
+      "found_time": "2025-08-20 15:25:38"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1710076372",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1710076372.A.5E8.html",
+      "source": "Startpage",
+      "found_by_keyword": "坪林 治安",
+      "found_time": "2025-08-20 15:25:47"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1742518425",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1742518425.A.2AF.html",
+      "source": "Startpage",
+      "found_by_keyword": "烏來 治安",
+      "found_time": "2025-08-20 15:25:56"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1695251743",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1695251743.A.75A.html",
+      "source": "Startpage",
+      "found_by_keyword": "烏來 治安",
+      "found_time": "2025-08-20 15:25:56"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1719633884",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1719633884.A.70B.html",
+      "source": "Startpage",
+      "found_by_keyword": "烏來 治安",
+      "found_time": "2025-08-20 15:25:56"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1742597892",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1742597892.A.B0F.html",
+      "source": "Startpage",
+      "found_by_keyword": "烏來 治安",
+      "found_time": "2025-08-20 15:25:56"
+    },
+    {
+      "title": "PTT ShuangHe 板 - 文章ID: 1462371104",
+      "url": "https://www.ptt.cc/bbs/ShuangHe/M.1462371104.A.626.html",
+      "source": "Startpage",
+      "found_by_keyword": "永和 治安",
+      "found_time": "2025-08-20 15:26:05"
+    },
+    {
+      "title": "PTT BigSanchung 板 - 文章ID: 1639086976",
+      "url": "https://www.ptt.cc/bbs/BigSanchung/M.1639086976.A.229.html",
+      "source": "Startpage",
+      "found_by_keyword": "中和 治安",
+      "found_time": "2025-08-20 15:26:14"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1682154371",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1682154371.A.135.html",
+      "source": "Startpage",
+      "found_by_keyword": "土城 治安",
+      "found_time": "2025-08-20 15:26:22"
+    },
+    {
+      "title": "PTT TuCheng 板 - 文章ID: 1421849520",
+      "url": "https://www.ptt.cc/bbs/TuCheng/M.1421849520.A.E1F.html",
+      "source": "Startpage",
+      "found_by_keyword": "土城 治安",
+      "found_time": "2025-08-20 15:26:22"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1731397491",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1731397491.A.CC8.html",
+      "source": "Startpage",
+      "found_by_keyword": "三峽 治安",
+      "found_time": "2025-08-20 15:26:31"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1747700680",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1747700680.A.A95.html",
+      "source": "Startpage",
+      "found_by_keyword": "三峽 治安",
+      "found_time": "2025-08-20 15:26:31"
+    },
+    {
+      "title": "PTT Hsinchu 板 - 文章ID: 1689520393",
+      "url": "https://www.ptt.cc/bbs/Hsinchu/M.1689520393.A.443.html",
+      "source": "Startpage",
+      "found_by_keyword": "樹林 治安",
+      "found_time": "2025-08-20 15:26:40"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1685319744",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1685319744.A.571.html",
+      "source": "Startpage",
+      "found_by_keyword": "樹林 治安",
+      "found_time": "2025-08-20 15:26:40"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1660622451",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1660622451.A.C8C.html",
+      "source": "Startpage",
+      "found_by_keyword": "樹林 治安",
+      "found_time": "2025-08-20 15:26:40"
+    },
+    {
+      "title": "PTT Taoyuan 板 - 文章ID: 1632484605",
+      "url": "https://www.ptt.cc/bbs/Taoyuan/M.1632484605.A.03E.html",
+      "source": "Startpage",
+      "found_by_keyword": "鶯歌 治安",
+      "found_time": "2025-08-20 15:26:49"
+    },
+    {
+      "title": "PTT BigSanchung 板 - 文章ID: 1461164251",
+      "url": "https://www.ptt.cc/bbs/BigSanchung/M.1461164251.A.D77.html",
+      "source": "Startpage",
+      "found_by_keyword": "三重 治安",
+      "found_time": "2025-08-20 15:26:57"
+    },
+    {
+      "title": "PTT BigSanchung 板 - 文章ID: 1690351008",
+      "url": "https://www.ptt.cc/bbs/BigSanchung/M.1690351008.A.A0E.html",
+      "source": "Startpage",
+      "found_by_keyword": "三重 治安",
+      "found_time": "2025-08-20 15:26:57"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1747721226",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1747721226.A.A45.html",
+      "source": "Startpage",
+      "found_by_keyword": "三重 治安",
+      "found_time": "2025-08-20 15:26:57"
+    },
+    {
+      "title": "PTT BigSanchung 板 - 文章ID: 1406779959",
+      "url": "https://www.ptt.cc/bbs/BigSanchung/M.1406779959.A.0CA.html",
+      "source": "Startpage",
+      "found_by_keyword": "三重 治安",
+      "found_time": "2025-08-20 15:26:57"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1612773761",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1612773761.A.AFD.html",
+      "source": "Startpage",
+      "found_by_keyword": "蘆洲 治安",
+      "found_time": "2025-08-20 15:27:06"
+    },
+    {
+      "title": "PTT Marginalman 板 - 文章ID: 1747050989",
+      "url": "https://www.ptt.cc/bbs/Marginalman/M.1747050989.A.D14.html",
+      "source": "Startpage",
+      "found_by_keyword": "蘆洲 治安",
+      "found_time": "2025-08-20 15:27:06"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1667566134",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1667566134.A.43D.html",
+      "source": "Startpage",
+      "found_by_keyword": "桃園 治安",
+      "found_time": "2025-08-20 15:27:24"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1731510916",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1731510916.A.060.html",
+      "source": "Startpage",
+      "found_by_keyword": "桃園 治安",
+      "found_time": "2025-08-20 15:27:24"
+    },
+    {
+      "title": "PTT ChungLi 板 - 文章ID: 1727752233",
+      "url": "https://www.ptt.cc/bbs/ChungLi/M.1727752233.A.0D0.html",
+      "source": "Startpage",
+      "found_by_keyword": "桃園 治安",
+      "found_time": "2025-08-20 15:27:24"
+    },
+    {
+      "title": "PTT ChungLi 板 - 文章ID: 1667750964",
+      "url": "https://www.ptt.cc/bbs/ChungLi/M.1667750964.A.369.html",
+      "source": "Startpage",
+      "found_by_keyword": "桃園 治安",
+      "found_time": "2025-08-20 15:27:24"
+    },
+    {
+      "title": "PTT Taoyuan 板 - 文章ID: 1510980196",
+      "url": "https://www.ptt.cc/bbs/Taoyuan/M.1510980196.A.9B5.html",
+      "source": "Startpage",
+      "found_by_keyword": "桃園 治安",
+      "found_time": "2025-08-20 15:27:24"
+    },
+    {
+      "title": "PTT Taoyuan 板 - 文章ID: 1664750443",
+      "url": "https://www.ptt.cc/bbs/Taoyuan/M.1664750443.A.530.html",
+      "source": "Startpage",
+      "found_by_keyword": "桃園 治安",
+      "found_time": "2025-08-20 15:27:24"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1746109961",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1746109961.A.6CF.html",
+      "source": "Startpage",
+      "found_by_keyword": "桃園 治安",
+      "found_time": "2025-08-20 15:27:24"
+    },
+    {
+      "title": "PTT ChungLi 板 - 文章ID: 1533132563",
+      "url": "https://www.ptt.cc/bbs/ChungLi/M.1533132563.A.146.html",
+      "source": "Startpage",
+      "found_by_keyword": "中壢 治安",
+      "found_time": "2025-08-20 15:27:33"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1746106367",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1746106367.A.72B.html",
+      "source": "Startpage",
+      "found_by_keyword": "中壢 治安",
+      "found_time": "2025-08-20 15:27:33"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1727927882",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1727927882.A.2DF.html",
+      "source": "Startpage",
+      "found_by_keyword": "中壢 治安",
+      "found_time": "2025-08-20 15:27:33"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1747082310",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1747082310.A.1D3.html",
+      "source": "Startpage",
+      "found_by_keyword": "平鎮 治安",
+      "found_time": "2025-08-20 15:27:42"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1717555536",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1717555536.A.ACA.html",
+      "source": "Startpage",
+      "found_by_keyword": "平鎮 治安",
+      "found_time": "2025-08-20 15:27:42"
+    },
+    {
+      "title": "PTT ChungLi 板 - 文章ID: 1630851646",
+      "url": "https://www.ptt.cc/bbs/ChungLi/M.1630851646.A.5D6.html",
+      "source": "Startpage",
+      "found_by_keyword": "平鎮 治安",
+      "found_time": "2025-08-20 15:27:42"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1604028313",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1604028313.A.711.html",
+      "source": "Startpage",
+      "found_by_keyword": "八德 治安",
+      "found_time": "2025-08-20 15:27:55"
+    },
+    {
+      "title": "PTT Taoyuan 板 - 文章ID: 1702910528",
+      "url": "https://www.ptt.cc/bbs/Taoyuan/M.1702910528.A.512.html",
+      "source": "Startpage",
+      "found_by_keyword": "八德 治安",
+      "found_time": "2025-08-20 15:27:55"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1584609291",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1584609291.A.25A.html",
+      "source": "Startpage",
+      "found_by_keyword": "八德 治安",
+      "found_time": "2025-08-20 15:27:55"
+    },
+    {
+      "title": "PTT ChungLi 板 - 文章ID: 1466393625",
+      "url": "https://www.ptt.cc/bbs/ChungLi/M.1466393625.A.541.html",
+      "source": "Startpage",
+      "found_by_keyword": "楊梅 治安",
+      "found_time": "2025-08-20 15:28:03"
+    },
+    {
+      "title": "PTT Hsinchu 板 - 文章ID: 1677155898",
+      "url": "https://www.ptt.cc/bbs/Hsinchu/M.1677155898.A.443.html",
+      "source": "Startpage",
+      "found_by_keyword": "楊梅 治安",
+      "found_time": "2025-08-20 15:28:03"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1706493278",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1706493278.A.606.html",
+      "source": "Startpage",
+      "found_by_keyword": "楊梅 治安",
+      "found_time": "2025-08-20 15:28:03"
+    },
+    {
+      "title": "PTT Geography 板 - 文章ID: 1551075278",
+      "url": "https://www.ptt.cc/bbs/Geography/M.1551075278.A.42B.html",
+      "source": "Startpage",
+      "found_by_keyword": "楊梅 治安",
+      "found_time": "2025-08-20 15:28:03"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1751513884",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1751513884.A.428.html",
+      "source": "Startpage",
+      "found_by_keyword": "楊梅 治安",
+      "found_time": "2025-08-20 15:28:03"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1662893904",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1662893904.A.C6F.html",
+      "source": "Startpage",
+      "found_by_keyword": "楊梅 治安",
+      "found_time": "2025-08-20 15:28:03"
+    },
+    {
+      "title": "PTT car 板 - 文章ID: 1723188911",
+      "url": "https://www.ptt.cc/bbs/car/M.1723188911.A.FCC.html",
+      "source": "Startpage",
+      "found_by_keyword": "楊梅 治安",
+      "found_time": "2025-08-20 15:28:03"
+    },
+    {
+      "title": "PTT Hsinchu 板 - 文章ID: 1566714814",
+      "url": "https://www.ptt.cc/bbs/Hsinchu/M.1566714814.A.D8A.html",
+      "source": "Startpage",
+      "board": "Hsinchu",
+      "article_id": "1566714814",
+      "found_by_keyword": "蘆竹 治安",
+      "found_time": "2025-08-20 15:46:02"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1616948424",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1616948424.A.220.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1616948424",
+      "found_by_keyword": "大園 治安",
+      "found_time": "2025-08-20 15:46:25"
+    },
+    {
+      "title": "PTT TPC_Police 板 - 文章ID: 1705312640",
+      "url": "https://www.ptt.cc/bbs/TPC_Police/M.1705312640.A.2D3.html",
+      "source": "Startpage",
+      "board": "TPC_Police",
+      "article_id": "1705312640",
+      "found_by_keyword": "大園 治安",
+      "found_time": "2025-08-20 15:46:25"
+    },
+    {
+      "title": "PTT CVS 板 - 文章ID: 1697127677",
+      "url": "https://www.ptt.cc/bbs/CVS/M.1697127677.A.D81.html",
+      "source": "Startpage",
+      "board": "CVS",
+      "article_id": "1697127677",
+      "found_by_keyword": "大園 治安",
+      "found_time": "2025-08-20 15:46:25"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1752828304",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1752828304.A.6A4.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1752828304",
+      "found_by_keyword": "龜山 治安",
+      "found_time": "2025-08-20 15:46:37"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1752827132",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1752827132.A.4C5.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1752827132",
+      "found_by_keyword": "龜山 治安",
+      "found_time": "2025-08-20 15:46:37"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1718813902",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1718813902.A.0D4.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1718813902",
+      "found_by_keyword": "龜山 治安",
+      "found_time": "2025-08-20 15:46:37"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1703717876",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1703717876.A.D2B.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1703717876",
+      "found_by_keyword": "龍潭 治安",
+      "found_time": "2025-08-20 15:46:50"
+    },
+    {
+      "title": "PTT Hsinchu 板 - 文章ID: 1551699181",
+      "url": "https://www.ptt.cc/bbs/Hsinchu/M.1551699181.A.97F.html",
+      "source": "Startpage",
+      "board": "Hsinchu",
+      "article_id": "1551699181",
+      "found_by_keyword": "龍潭 治安",
+      "found_time": "2025-08-20 15:46:50"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1663421967",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1663421967.A.903.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1663421967",
+      "found_by_keyword": "龍潭 治安",
+      "found_time": "2025-08-20 15:46:50"
+    },
+    {
+      "title": "PTT Tech_Job 板 - 文章ID: 1744201836",
+      "url": "https://www.ptt.cc/bbs/Tech_Job/M.1744201836.A.15A.html",
+      "source": "Startpage",
+      "board": "Tech_Job",
+      "article_id": "1744201836",
+      "found_by_keyword": "龍潭 治安",
+      "found_time": "2025-08-20 15:46:50"
+    },
+    {
+      "title": "PTT Stock 板 - 文章ID: 1717816223",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1717816223.A.F2C.html",
+      "source": "Startpage",
+      "board": "Stock",
+      "article_id": "1717816223",
+      "found_by_keyword": "龍潭 治安",
+      "found_time": "2025-08-20 15:46:50"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1618724414",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1618724414.A.B55.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1618724414",
+      "found_by_keyword": "新屋 治安",
+      "found_time": "2025-08-20 15:47:02"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1752387808",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1752387808.A.2EE.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1752387808",
+      "found_by_keyword": "新屋 治安",
+      "found_time": "2025-08-20 15:47:02"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1750079747",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1750079747.A.850.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1750079747",
+      "found_by_keyword": "新屋 治安",
+      "found_time": "2025-08-20 15:47:02"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1606489430",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1606489430.A.33A.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1606489430",
+      "found_by_keyword": "新屋 治安",
+      "found_time": "2025-08-20 15:47:02"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1642083042",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1642083042.A.396.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1642083042",
+      "found_by_keyword": "觀音 治安",
+      "found_time": "2025-08-20 15:47:15"
+    },
+    {
+      "title": "PTT FuMouDiscuss 板 - 文章ID: 1397865827",
+      "url": "https://www.ptt.cc/bbs/FuMouDiscuss/M.1397865827.A.05B.html",
+      "source": "Startpage",
+      "board": "FuMouDiscuss",
+      "article_id": "1397865827",
+      "found_by_keyword": "觀音 治安",
+      "found_time": "2025-08-20 15:47:15"
+    },
+    {
+      "title": "PTT NCHU_History 板 - 文章ID: 1304029689",
+      "url": "https://www.ptt.cc/bbs/NCHU_History/M.1304029689.A.28E.html",
+      "source": "Startpage",
+      "board": "NCHU_History",
+      "article_id": "1304029689",
+      "found_by_keyword": "觀音 治安",
+      "found_time": "2025-08-20 15:47:15"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1673443294",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1673443294.A.936.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1673443294",
+      "found_by_keyword": "觀音 治安",
+      "found_time": "2025-08-20 15:47:15"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1739199947",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1739199947.A.58E.html",
+      "source": "Startpage",
+      "board": "Kaohsiung",
+      "article_id": "1739199947",
+      "found_by_keyword": "復興 治安",
+      "found_time": "2025-08-20 15:47:27"
+    },
+    {
+      "title": "PTT BigBanciao 板 - 文章ID: 1723620346",
+      "url": "https://www.ptt.cc/bbs/BigBanciao/M.1723620346.A.703.html",
+      "source": "Startpage",
+      "board": "BigBanciao",
+      "article_id": "1723620346",
+      "found_by_keyword": "復興 治安",
+      "found_time": "2025-08-20 15:47:27"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1737150340",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1737150340.A.0E8.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1737150340",
+      "found_by_keyword": "中區 治安",
+      "found_time": "2025-08-20 15:47:39"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1717384345",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1717384345.A.C5E.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1717384345",
+      "found_by_keyword": "中區 治安",
+      "found_time": "2025-08-20 15:47:39"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1632194273",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1632194273.A.18C.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1632194273",
+      "found_by_keyword": "中區 治安",
+      "found_time": "2025-08-20 15:47:39"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1679751839",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1679751839.A.4AA.html",
+      "source": "Startpage",
+      "board": "WomenTalk",
+      "article_id": "1679751839",
+      "found_by_keyword": "中區 治安",
+      "found_time": "2025-08-20 15:47:39"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1688808025",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1688808025.A.7A4.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1688808025",
+      "found_by_keyword": "東區 治安",
+      "found_time": "2025-08-20 15:47:51"
+    },
+    {
+      "title": "PTT Hsinchu 板 - 文章ID: 1634561358",
+      "url": "https://www.ptt.cc/bbs/Hsinchu/M.1634561358.A.3F9.html",
+      "source": "Startpage",
+      "board": "Hsinchu",
+      "article_id": "1634561358",
+      "found_by_keyword": "東區 治安",
+      "found_time": "2025-08-20 15:47:51"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1677075855",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1677075855.A.137.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1677075855",
+      "found_by_keyword": "西區 治安",
+      "found_time": "2025-08-20 15:48:14"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1740318656",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1740318656.A.B35.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1740318656",
+      "found_by_keyword": "西屯 治安",
+      "found_time": "2025-08-20 15:48:38"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1628612588",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1628612588.A.8FE.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1628612588",
+      "found_by_keyword": "西屯 治安",
+      "found_time": "2025-08-20 15:48:38"
+    },
+    {
+      "title": "PTT Geography 板 - 文章ID: 1685968224",
+      "url": "https://www.ptt.cc/bbs/Geography/M.1685968224.A.996.html",
+      "source": "Startpage",
+      "board": "Geography",
+      "article_id": "1685968224",
+      "found_by_keyword": "西屯 治安",
+      "found_time": "2025-08-20 15:48:38"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1669476862",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1669476862.A.4E5.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1669476862",
+      "found_by_keyword": "西屯 治安",
+      "found_time": "2025-08-20 15:48:38"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1682082872",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1682082872.A.EA8.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1682082872",
+      "found_by_keyword": "西屯 治安",
+      "found_time": "2025-08-20 15:48:38"
+    },
+    {
+      "title": "PTT marvel 板 - 文章ID: 1414775987",
+      "url": "https://www.ptt.cc/bbs/marvel/M.1414775987.A.528.html",
+      "source": "Startpage",
+      "board": "marvel",
+      "article_id": "1414775987",
+      "found_by_keyword": "西屯 治安",
+      "found_time": "2025-08-20 15:48:38"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1672062242",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1672062242.A.5E0.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1672062242",
+      "found_by_keyword": "西屯 治安",
+      "found_time": "2025-08-20 15:48:38"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1751686341",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1751686341.A.A9E.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1751686341",
+      "found_by_keyword": "南屯 治安",
+      "found_time": "2025-08-20 15:48:57"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1742976597",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1742976597.A.FB8.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1742976597",
+      "found_by_keyword": "南屯 治安",
+      "found_time": "2025-08-20 15:48:57"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1754144444",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1754144444.A.5A9.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1754144444",
+      "found_by_keyword": "南屯 治安",
+      "found_time": "2025-08-20 15:48:57"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1739454565",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1739454565.A.BF6.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1739454565",
+      "found_by_keyword": "北屯 治安",
+      "found_time": "2025-08-20 15:49:10"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1754290767",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1754290767.A.F40.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1754290767",
+      "found_by_keyword": "豐原 治安",
+      "found_time": "2025-08-20 15:49:21"
+    },
+    {
+      "title": "PTT car 板 - 文章ID: 1675396716",
+      "url": "https://www.ptt.cc/bbs/car/M.1675396716.A.B03.html",
+      "source": "Startpage",
+      "board": "car",
+      "article_id": "1675396716",
+      "found_by_keyword": "豐原 治安",
+      "found_time": "2025-08-20 15:49:21"
+    },
+    {
+      "title": "PTT Geography 板 - 文章ID: 1717485411",
+      "url": "https://www.ptt.cc/bbs/Geography/M.1717485411.A.6C7.html",
+      "source": "Startpage",
+      "board": "Geography",
+      "article_id": "1717485411",
+      "found_by_keyword": "豐原 治安",
+      "found_time": "2025-08-20 15:49:21"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1751885420",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1751885420.A.74C.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1751885420",
+      "found_by_keyword": "豐原 治安",
+      "found_time": "2025-08-20 15:49:21"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1697357933",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1697357933.A.C31.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1697357933",
+      "found_by_keyword": "豐原 治安",
+      "found_time": "2025-08-20 15:49:21"
+    },
+    {
+      "title": "PTT FengYuan 板 - 文章ID: 1335208484",
+      "url": "https://www.ptt.cc/bbs/FengYuan/M.1335208484.A.E89.html",
+      "source": "Startpage",
+      "board": "FengYuan",
+      "article_id": "1335208484",
+      "found_by_keyword": "豐原 治安",
+      "found_time": "2025-08-20 15:49:21"
+    },
+    {
+      "title": "PTT CheerGirlsTW 板 - 文章ID: 1754291425",
+      "url": "https://www.ptt.cc/bbs/CheerGirlsTW/M.1754291425.A.2CC.html",
+      "source": "Startpage",
+      "board": "CheerGirlsTW",
+      "article_id": "1754291425",
+      "found_by_keyword": "豐原 治安",
+      "found_time": "2025-08-20 15:49:21"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1751693177",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1751693177.A.B7A.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1751693177",
+      "found_by_keyword": "豐原 治安",
+      "found_time": "2025-08-20 15:49:21"
+    },
+    {
+      "title": "PTT Geography 板 - 文章ID: 1667470562",
+      "url": "https://www.ptt.cc/bbs/Geography/M.1667470562.A.4F7.html",
+      "source": "Startpage",
+      "board": "Geography",
+      "article_id": "1667470562",
+      "found_by_keyword": "東勢 治安",
+      "found_time": "2025-08-20 15:49:33"
+    },
+    {
+      "title": "PTT historia 板 - 文章ID: 1554433474",
+      "url": "https://www.ptt.cc/bbs/historia/M.1554433474.A.0AC.html",
+      "source": "Startpage",
+      "board": "historia",
+      "article_id": "1554433474",
+      "found_by_keyword": "東勢 治安",
+      "found_time": "2025-08-20 15:49:33"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1682664514",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1682664514.A.632.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1682664514",
+      "found_by_keyword": "東勢 治安",
+      "found_time": "2025-08-20 15:49:33"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1649523103",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1649523103.A.A18.html",
+      "source": "Startpage",
+      "board": "WomenTalk",
+      "article_id": "1649523103",
+      "found_by_keyword": "大甲 治安",
+      "found_time": "2025-08-20 15:49:45"
+    },
+    {
+      "title": "PTT BaseballXXXX 板 - 文章ID: 1746886934",
+      "url": "https://www.ptt.cc/bbs/BaseballXXXX/M.1746886934.A.075.html",
+      "source": "Startpage",
+      "board": "BaseballXXXX",
+      "article_id": "1746886934",
+      "found_by_keyword": "大甲 治安",
+      "found_time": "2025-08-20 15:49:45"
+    },
+    {
+      "title": "PTT TaichungCont 板 - 文章ID: 1328986282",
+      "url": "https://www.ptt.cc/bbs/TaichungCont/M.1328986282.A.962.html",
+      "source": "Startpage",
+      "board": "TaichungCont",
+      "article_id": "1328986282",
+      "found_by_keyword": "清水 治安",
+      "found_time": "2025-08-20 15:49:58"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1684327959",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1684327959.A.7F9.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1684327959",
+      "found_by_keyword": "清水 治安",
+      "found_time": "2025-08-20 15:49:58"
+    },
+    {
+      "title": "PTT car 板 - 文章ID: 1741851530",
+      "url": "https://www.ptt.cc/bbs/car/M.1741851530.A.4F4.html",
+      "source": "Startpage",
+      "board": "car",
+      "article_id": "1741851530",
+      "found_by_keyword": "清水 治安",
+      "found_time": "2025-08-20 15:49:58"
+    },
+    {
+      "title": "PTT Suckcomic 板 - 文章ID: 1309945770",
+      "url": "https://www.ptt.cc/bbs/Suckcomic/M.1309945770.A.4FD.html",
+      "source": "Startpage",
+      "board": "Suckcomic",
+      "article_id": "1309945770",
+      "found_by_keyword": "清水 治安",
+      "found_time": "2025-08-20 15:49:58"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1745645033",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1745645033.A.2AB.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1745645033",
+      "found_by_keyword": "沙鹿 治安",
+      "found_time": "2025-08-20 15:50:09"
+    },
+    {
+      "title": "PTT BabyMother 板 - 文章ID: 1693497145",
+      "url": "https://www.ptt.cc/bbs/BabyMother/M.1693497145.A.F82.html",
+      "source": "Startpage",
+      "board": "BabyMother",
+      "article_id": "1693497145",
+      "found_by_keyword": "沙鹿 治安",
+      "found_time": "2025-08-20 15:50:09"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1705681513",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1705681513.A.840.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1705681513",
+      "found_by_keyword": "梧棲 治安",
+      "found_time": "2025-08-20 15:50:21"
+    },
+    {
+      "title": "PTT EuropeTravel 板 - 文章ID: 1695762097",
+      "url": "https://www.ptt.cc/bbs/EuropeTravel/M.1695762097.A.DED.html",
+      "source": "Startpage",
+      "board": "EuropeTravel",
+      "article_id": "1695762097",
+      "found_by_keyword": "后里 治安",
+      "found_time": "2025-08-20 15:50:34"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1682615131",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1682615131.A.39B.html",
+      "source": "Startpage",
+      "board": "WomenTalk",
+      "article_id": "1682615131",
+      "found_by_keyword": "后里 治安",
+      "found_time": "2025-08-20 15:50:34"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1598587039",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1598587039.A.77A.html",
+      "source": "Startpage",
+      "board": "WomenTalk",
+      "article_id": "1598587039",
+      "found_by_keyword": "后里 治安",
+      "found_time": "2025-08-20 15:50:34"
+    },
+    {
+      "title": "PTT Military 板 - 文章ID: 1704494289",
+      "url": "https://www.ptt.cc/bbs/Military/M.1704494289.A.996.html",
+      "source": "Startpage",
+      "board": "Military",
+      "article_id": "1704494289",
+      "found_by_keyword": "后里 治安",
+      "found_time": "2025-08-20 15:50:34"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1658713319",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1658713319.A.F5B.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1658713319",
+      "found_by_keyword": "潭子 治安",
+      "found_time": "2025-08-20 15:50:56"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1663007675",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1663007675.A.FF7.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1663007675",
+      "found_by_keyword": "潭子 治安",
+      "found_time": "2025-08-20 15:50:56"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1753055200",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1753055200.A.03E.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1753055200",
+      "found_by_keyword": "潭子 治安",
+      "found_time": "2025-08-20 15:50:56"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1747588496",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1747588496.A.9F9.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1747588496",
+      "found_by_keyword": "潭子 治安",
+      "found_time": "2025-08-20 15:50:56"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1708167917",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1708167917.A.0FF.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1708167917",
+      "found_by_keyword": "大雅 治安",
+      "found_time": "2025-08-20 15:51:08"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1628733183",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1628733183.A.829.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1628733183",
+      "found_by_keyword": "新社 治安",
+      "found_time": "2025-08-20 15:51:21"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1629646882",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1629646882.A.983.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1629646882",
+      "found_by_keyword": "新社 治安",
+      "found_time": "2025-08-20 15:51:21"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1753244040",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1753244040.A.41D.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1753244040",
+      "found_by_keyword": "石岡 治安",
+      "found_time": "2025-08-20 15:51:31"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1700354278",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1700354278.A.AD9.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1700354278",
+      "found_by_keyword": "外埔 治安",
+      "found_time": "2025-08-20 15:51:43"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1632471889",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1632471889.A.39A.html",
+      "source": "Startpage",
+      "board": "Kaohsiung",
+      "article_id": "1632471889",
+      "found_by_keyword": "外埔 治安",
+      "found_time": "2025-08-20 15:51:43"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1726760471",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1726760471.A.F93.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1726760471",
+      "found_by_keyword": "外埔 治安",
+      "found_time": "2025-08-20 15:51:43"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1742126601",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1742126601.A.D20.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1742126601",
+      "found_by_keyword": "烏日 治安",
+      "found_time": "2025-08-20 15:52:07"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1747757301",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1747757301.A.5CA.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1747757301",
+      "found_by_keyword": "烏日 治安",
+      "found_time": "2025-08-20 15:52:07"
+    },
+    {
+      "title": "PTT marvel 板 - 文章ID: 1466553405",
+      "url": "https://www.ptt.cc/bbs/marvel/M.1466553405.A.2C8.html",
+      "source": "Startpage",
+      "board": "marvel",
+      "article_id": "1466553405",
+      "found_by_keyword": "大肚 治安",
+      "found_time": "2025-08-20 15:52:19"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1749919798",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1749919798.A.A22.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1749919798",
+      "found_by_keyword": "龍井 治安",
+      "found_time": "2025-08-20 15:52:31"
+    },
+    {
+      "title": "PTT Wen-Shan 板 - 文章ID: 1433498845",
+      "url": "https://www.ptt.cc/bbs/Wen-Shan/M.1433498845.A.455.html",
+      "source": "Startpage",
+      "board": "Wen-Shan",
+      "article_id": "1433498845",
+      "found_by_keyword": "龍井 治安",
+      "found_time": "2025-08-20 15:52:31"
+    },
+    {
+      "title": "PTT car 板 - 文章ID: 1660578181",
+      "url": "https://www.ptt.cc/bbs/car/M.1660578181.A.059.html",
+      "source": "Startpage",
+      "board": "car",
+      "article_id": "1660578181",
+      "found_by_keyword": "霧峰 治安",
+      "found_time": "2025-08-20 15:52:43"
+    },
+    {
+      "title": "PTT car 板 - 文章ID: 1648455721",
+      "url": "https://www.ptt.cc/bbs/car/M.1648455721.A.677.html",
+      "source": "Startpage",
+      "board": "car",
+      "article_id": "1648455721",
+      "found_by_keyword": "霧峰 治安",
+      "found_time": "2025-08-20 15:52:43"
+    },
+    {
+      "title": "PTT marvel 板 - 文章ID: 1400703672",
+      "url": "https://www.ptt.cc/bbs/marvel/M.1400703672.A.FE4.html",
+      "source": "Startpage",
+      "board": "marvel",
+      "article_id": "1400703672",
+      "found_by_keyword": "霧峰 治安",
+      "found_time": "2025-08-20 15:52:43"
+    },
+    {
+      "title": "PTT TaichungBun 板 - 文章ID: 1648889540",
+      "url": "https://www.ptt.cc/bbs/TaichungBun/M.1648889540.A.ED3.html",
+      "source": "Startpage",
+      "board": "TaichungBun",
+      "article_id": "1648889540",
+      "found_by_keyword": "太平 治安",
+      "found_time": "2025-08-20 15:52:55"
+    },
+    {
+      "title": "PTT HatePolitics 板 - 文章ID: 1751508033",
+      "url": "https://www.ptt.cc/bbs/HatePolitics/M.1751508033.A.192.html",
+      "source": "Startpage",
+      "board": "HatePolitics",
+      "article_id": "1751508033",
+      "found_by_keyword": "大里 治安",
+      "found_time": "2025-08-20 15:53:06"
+    },
+    {
+      "title": "PTT Wanhua 板 - 文章ID: 1581956600",
+      "url": "https://www.ptt.cc/bbs/Wanhua/M.1581956600.A.9C2.html",
+      "source": "Startpage",
+      "board": "Wanhua",
+      "article_id": "1581956600",
+      "found_by_keyword": "和平 治安",
+      "found_time": "2025-08-20 15:53:18"
+    },
+    {
+      "title": "PTT Hong_Kong 板 - 文章ID: 1498299854",
+      "url": "https://www.ptt.cc/bbs/Hong_Kong/M.1498299854.A.E1A.html",
+      "source": "Startpage",
+      "board": "Hong_Kong",
+      "article_id": "1498299854",
+      "found_by_keyword": "和平 治安",
+      "found_time": "2025-08-20 15:53:18"
+    },
+    {
+      "title": "PTT CFantasy 板 - 文章ID: 1586491586",
+      "url": "https://www.ptt.cc/bbs/CFantasy/M.1586491586.A.BFC.html",
+      "source": "Startpage",
+      "board": "CFantasy",
+      "article_id": "1586491586",
+      "found_by_keyword": "和平 治安",
+      "found_time": "2025-08-20 15:53:18"
+    },
+    {
+      "title": "PTT Warfare 板 - 文章ID: 1568695179",
+      "url": "https://www.ptt.cc/bbs/Warfare/M.1568695179.A.9F2.html",
+      "source": "Startpage",
+      "board": "Warfare",
+      "article_id": "1568695179",
+      "found_by_keyword": "中西 治安",
+      "found_time": "2025-08-20 15:53:29"
+    },
+    {
+      "title": "PTT Aviation 板 - 文章ID: 1473343287",
+      "url": "https://www.ptt.cc/bbs/Aviation/M.1473343287.A.C7F.html",
+      "source": "Startpage",
+      "board": "Aviation",
+      "article_id": "1473343287",
+      "found_by_keyword": "中西 治安",
+      "found_time": "2025-08-20 15:53:29"
+    },
+    {
+      "title": "PTT NorthAmerica 板 - 文章ID: 1279026444",
+      "url": "https://www.ptt.cc/bbs/NorthAmerica/M.1279026444.A.BBF.html",
+      "source": "Startpage",
+      "board": "NorthAmerica",
+      "article_id": "1279026444",
+      "found_by_keyword": "中西 治安",
+      "found_time": "2025-08-20 15:53:29"
+    },
+    {
+      "title": "PTT studyabroad 板 - 文章ID: 1583725878",
+      "url": "https://www.ptt.cc/bbs/studyabroad/M.1583725878.A.546.html",
+      "source": "Startpage",
+      "board": "studyabroad",
+      "article_id": "1583725878",
+      "found_by_keyword": "中西 治安",
+      "found_time": "2025-08-20 15:53:29"
+    },
+    {
+      "title": "PTT Japan_Travel 板 - 文章ID: 1717861216",
+      "url": "https://www.ptt.cc/bbs/Japan_Travel/M.1717861216.A.131.html",
+      "source": "Startpage",
+      "board": "Japan_Travel",
+      "article_id": "1717861216",
+      "found_by_keyword": "中西 治安",
+      "found_time": "2025-08-20 15:53:29"
+    },
+    {
+      "title": "PTT IZONE 板 - 文章ID: 1542556805",
+      "url": "https://www.ptt.cc/bbs/IZONE/M.1542556805.A.ADF.html",
+      "source": "Startpage",
+      "board": "IZONE",
+      "article_id": "1542556805",
+      "found_by_keyword": "中西 治安",
+      "found_time": "2025-08-20 15:53:29"
+    },
+    {
+      "title": "PTT China-Drama 板 - 文章ID: 1717939967",
+      "url": "https://www.ptt.cc/bbs/China-Drama/M.1717939967.A.908.html",
+      "source": "Startpage",
+      "board": "China-Drama",
+      "article_id": "1717939967",
+      "found_by_keyword": "中西 治安",
+      "found_time": "2025-08-20 15:53:29"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1750377629",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1750377629.A.A2A.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1750377629",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1658250120",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1658250120.A.17E.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1658250120",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT marvel 板 - 文章ID: 1510992913",
+      "url": "https://www.ptt.cc/bbs/marvel/M.1510992913.A.AB0.html",
+      "source": "Startpage",
+      "board": "marvel",
+      "article_id": "1510992913",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1742028785",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1742028785.A.DD3.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1742028785",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1694443625",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1694443625.A.3EA.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1694443625",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1726135694",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1726135694.A.627.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1726135694",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1618208776",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1618208776.A.B84.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1618208776",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1720399063",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1720399063.A.142.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1720399063",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1725748672",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1725748672.A.050.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1725748672",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1693331724",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1693331724.A.1A3.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1693331724",
+      "found_by_keyword": "安平 治安",
+      "found_time": "2025-08-20 15:55:13"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1747895797",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1747895797.A.C46.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1747895797",
+      "found_by_keyword": "安南 治安",
+      "found_time": "2025-08-20 15:55:39"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1661163556",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1661163556.A.35E.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1661163556",
+      "found_by_keyword": "安南 治安",
+      "found_time": "2025-08-20 15:55:39"
+    },
+    {
+      "title": "PTT Militarylife 板 - 文章ID: 1374565951",
+      "url": "https://www.ptt.cc/bbs/Militarylife/M.1374565951.A.B12.html",
+      "source": "Startpage",
+      "board": "Militarylife",
+      "article_id": "1374565951",
+      "found_by_keyword": "安南 治安",
+      "found_time": "2025-08-20 15:55:39"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1698133475",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1698133475.A.545.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1698133475",
+      "found_by_keyword": "安南 治安",
+      "found_time": "2025-08-20 15:55:39"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1754040419",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1754040419.A.47E.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1754040419",
+      "found_by_keyword": "安南 治安",
+      "found_time": "2025-08-20 15:55:39"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1720403034",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1720403034.A.D6C.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1720403034",
+      "found_by_keyword": "安南 治安",
+      "found_time": "2025-08-20 15:55:39"
+    },
+    {
+      "title": "PTT gay 板 - 文章ID: 1468239778",
+      "url": "https://www.ptt.cc/bbs/gay/M.1468239778.A.2BB.html",
+      "source": "Startpage",
+      "board": "gay",
+      "article_id": "1468239778",
+      "found_by_keyword": "安南 治安",
+      "found_time": "2025-08-20 15:55:39"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1743019911",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1743019911.A.77B.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1743019911",
+      "found_by_keyword": "永康 治安",
+      "found_time": "2025-08-20 15:56:05"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1749784900",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1749784900.A.37E.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1749784900",
+      "found_by_keyword": "永康 治安",
+      "found_time": "2025-08-20 15:56:05"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1738117865",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1738117865.A.379.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1738117865",
+      "found_by_keyword": "歸仁 治安",
+      "found_time": "2025-08-20 15:56:30"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1747360685",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1747360685.A.716.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1747360685",
+      "found_by_keyword": "歸仁 治安",
+      "found_time": "2025-08-20 15:56:30"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1693753992",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1693753992.A.482.html",
+      "source": "Startpage",
+      "board": "Kaohsiung",
+      "article_id": "1693753992",
+      "found_by_keyword": "歸仁 治安",
+      "found_time": "2025-08-20 15:56:30"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1672815118",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1672815118.A.9EC.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1672815118",
+      "found_by_keyword": "歸仁 治安",
+      "found_time": "2025-08-20 15:56:30"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1661735863",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1661735863.A.874.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1661735863",
+      "found_by_keyword": "歸仁 治安",
+      "found_time": "2025-08-20 15:56:30"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1649835597",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1649835597.A.58B.html",
+      "source": "Startpage",
+      "board": "Kaohsiung",
+      "article_id": "1649835597",
+      "found_by_keyword": "新化 治安",
+      "found_time": "2025-08-20 15:56:56"
+    },
+    {
+      "title": "PTT Tainan 板 - 文章ID: 1720699717",
+      "url": "https://www.ptt.cc/bbs/Tainan/M.1720699717.A.7B1.html",
+      "source": "Startpage",
+      "board": "Tainan",
+      "article_id": "1720699717",
+      "found_by_keyword": "新化 治安",
+      "found_time": "2025-08-20 15:56:56"
+    },
+    {
+      "title": "PTT ChangHua 板 - 文章ID: 1661354600",
+      "url": "https://www.ptt.cc/bbs/ChangHua/M.1661354600.A.D17.html",
+      "source": "Startpage",
+      "board": "ChangHua",
+      "article_id": "1661354600",
+      "found_by_keyword": "新化 治安",
+      "found_time": "2025-08-20 15:56:56"
+    },
+    {
+      "title": "PTT Bank_Service 板 - 文章ID: 1744693194",
+      "url": "https://www.ptt.cc/bbs/Bank_Service/M.1744693194.A.480.html",
+      "source": "Startpage",
+      "board": "Bank_Service",
+      "article_id": "1744693194",
+      "found_by_keyword": "新化 治安",
+      "found_time": "2025-08-20 15:56:56"
+    },
+    {
+      "title": "PTT Tech_Job 板 - 文章ID: 1620548275",
+      "url": "https://www.ptt.cc/bbs/Tech_Job/M.1620548275.A.CE4.html",
+      "source": "Startpage",
+      "board": "Tech_Job",
+      "article_id": "1620548275",
+      "found_by_keyword": "新化 治安",
+      "found_time": "2025-08-20 15:56:56"
+    },
+    {
+      "title": "PTT EuropeTravel 板 - 文章ID: 1501170361",
+      "url": "https://www.ptt.cc/bbs/EuropeTravel/M.1501170361.A.712.html",
+      "source": "Startpage",
+      "board": "EuropeTravel",
+      "article_id": "1501170361",
+      "found_by_keyword": "左鎮 治安",
+      "found_time": "2025-08-20 15:57:22"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1735947810",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1735947810.A.600.html",
+      "source": "Startpage",
+      "board": "Kaohsiung",
+      "article_id": "1735947810",
+      "found_by_keyword": "左鎮 治安",
+      "found_time": "2025-08-20 15:57:22"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1638931626",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1638931626.A.B2D.html",
+      "source": "Startpage",
+      "board": "Kaohsiung",
+      "article_id": "1638931626",
+      "found_by_keyword": "左鎮 治安",
+      "found_time": "2025-08-20 15:57:22"
+    },
+    {
+      "title": "PTT home-sale 板 - 文章ID: 1743256843",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1743256843.A.E2F.html",
+      "source": "Startpage",
+      "board": "home-sale",
+      "article_id": "1743256843",
+      "found_by_keyword": "左鎮 治安",
+      "found_time": "2025-08-20 15:57:22"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1715572679",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1715572679.A.459.html",
+      "source": "Startpage",
+      "board": "Kaohsiung",
+      "article_id": "1715572679",
+      "found_by_keyword": "左鎮 治安",
+      "found_time": "2025-08-20 15:57:22"
+    },
+    {
+      "title": "PTT Kaohsiung 板 - 文章ID: 1754354791",
+      "url": "https://www.ptt.cc/bbs/Kaohsiung/M.1754354791.A.089.html",
+      "source": "Startpage",
+      "board": "Kaohsiung",
+      "article_id": "1754354791",
+      "found_by_keyword": "玉井 治安",
+      "found_time": "2025-08-20 15:57:46"
+    },
+    {
+      "title": "PTT WomenTalk 板 - 文章ID: 1729690735",
+      "url": "https://www.ptt.cc/bbs/WomenTalk/M.1729690735.A.DBA.html",
+      "source": "Startpage",
+      "board": "WomenTalk",
+      "article_id": "1729690735",
+      "found_by_keyword": "玉井 治安",
+      "found_time": "2025-08-20 15:57:46"
+    }
+  ]
+}

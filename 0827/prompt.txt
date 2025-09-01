@@ -1,0 +1,2 @@
+把json檔每個房屋內頁的連結爬蟲
+將class:age floor以及class="yc-certification"中的文字和img抓取放到json檔中
