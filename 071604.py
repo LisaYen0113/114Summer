@@ -1,4 +1,4 @@
-# FB 不完整但有成功
+# FB 不完整但有成功 (沒成功 貼文是斷的)
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
